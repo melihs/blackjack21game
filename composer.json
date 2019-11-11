@@ -1,0 +1,16 @@
+{
+    "name": "melihsahin/blackjack",
+    "description": "black jack game with php oop use\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[use\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[with php",
+    "autoload": {
+     "authors": [
+        {
+            "name": "melihs",
+            "email": "melihsahin24@gmail.com"
+        }
+    ],
+      "psr-4": {
+        "Src\\": "src/"
+      }
+    },
+    "require": {}
+}
