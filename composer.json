@@ -1,10 +1,10 @@
 {
     "name": "melihsahin/blackjack",
-    "description": "black jack game with php oop use\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[use\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[with php",
+    "description": "",
     "autoload": {
      "authors": [
         {
-            "name": "melihs",
+            "name": "melih sahin",
             "email": "melihsahin24@gmail.com"
         }
     ],

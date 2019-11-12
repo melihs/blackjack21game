@@ -3,21 +3,16 @@
 namespace Src;
 
 
-class Game {
-
-    private $delay;
+class Game
+{
     private $playerName;
+    private $delay;
 
-    /**
-     * Game constructor.
-     *
-     * @param $delay
-     * @param $playerName
-     */
-    public function __construct($delay, $playerName) {
-        $this->delay = $delay;
+    public function __construct($delay,$playerName) {
         $this->playerName = $playerName;
+        $this->delay = $delay;
+
     }
 
-    
+
 }
